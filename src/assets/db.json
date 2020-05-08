@@ -1,0 +1,80 @@
+{
+  "styles": [
+    {
+      "src": "assets/img/styles-5.jpg",
+      "title": "Пастелью",
+      "link": "#pastel"
+    },
+    {
+      "src": "assets/img/styles-6.jpg",
+      "title": "Поп-арт",
+      "link": "#popart"
+    },
+    {
+      "src": "assets/img/styles-7.png",
+      "title": "Фотомозаика",
+      "link": "#mozaika"
+    },
+    {
+      "src": "assets/img/styles-8.jpg",
+      "title": "Шарж",
+      "link": "#sharj"
+    }
+  ],
+      "size": [
+        {
+              "titleSize": [
+                "size1": "40x50",
+                "size2": "50x70",
+                "size3": "70x70",
+                "size4": "70x100",
+              ],
+            "price": [
+              "price1": "500",
+              "price2": "1000",
+              "price3": "1500",
+              "price4": "2000",
+            ]
+        }
+      ],
+
+        "materials": [
+          {
+            "material": [
+              "material1": "Холст из волокна",
+              "material2": "Льняной холст",
+              "material3":, "Холст из натурального хлопка"
+            ],
+
+            "descmaterial": [
+                "title1": "Изящный, позволяет легко создавать текстуру, подходит для декоративных картин маслом.",
+                "title2":, "Достаточно грубый и создает ощущение реальности, подходит для классических пейзажей, натюрмортов и портретов.",
+                "title2":, "Изящный, подходит для всех типов реалистичных портретов."
+              ],
+
+            "kefitsent": [
+              "kef1": "1",
+              "kef1": "1.2",
+              "kef1": "1.5"
+            ]
+          }
+        ],
+
+        "options": [
+          {
+            "servicesOptions": [
+              "services": "Дополнительные услуги",
+              "art-gel": "Покрытие арт-гелем",
+              "express": "Экспресс-изготовление",
+              "delivery": "Доставка готовых работ "
+            ],
+
+            "priceOptions": [
+              "servicesPrice": "500",
+              "art-gelPrice": "700",
+              "expressPrice": "800",
+              "deliveryPrice": "1000"
+            ]
+          }
+        ]
+}
